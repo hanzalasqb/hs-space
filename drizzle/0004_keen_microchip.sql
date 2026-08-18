@@ -1,0 +1,2 @@
+ALTER TABLE `users` MODIFY COLUMN `approvalStatus` enum('pending','approved','rejected','blocked','suspended') NOT NULL DEFAULT 'pending';--> statement-breakpoint
+ALTER TABLE `users` ADD `permissionMessage` text;

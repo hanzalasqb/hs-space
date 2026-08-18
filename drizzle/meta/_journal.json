@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786812816195,
+      "tag": "0000_special_squadron_supreme",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786813276065,
+      "tag": "0001_strange_prowler",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786816072002,
+      "tag": "0002_military_lizard",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1786816988061,
+      "tag": "0003_clumsy_masked_marvel",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1786890203787,
+      "tag": "0004_keen_microchip",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1786892522088,
+      "tag": "0005_mushy_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1786901635697,
+      "tag": "0006_flat_silvermane",
+      "breakpoints": true
+    }
+  ]
+}
